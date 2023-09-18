@@ -1,0 +1,116 @@
+---
+object: card
+id: 81e7aeca-eaba-4d9a-b061-0d9a63b03b3a
+oracle_id: c2d258be-8634-4534-bb09-c064329f0940
+multiverse_ids:
+- 426832
+mtgo_id: 63862
+mtgo_foil_id: 63863
+tcgplayer_id: 130212
+cardmarket_id: 297185
+name: Emberhorn Minotaur
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/81e7aeca-eaba-4d9a-b061-0d9a63b03b3a
+scryfall_uri: https://scryfall.com/card/akh/130/emberhorn-minotaur?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/1/81e7aeca-eaba-4d9a-b061-0d9a63b03b3a.jpg?1543675562
+  normal: https://cards.scryfall.io/normal/front/8/1/81e7aeca-eaba-4d9a-b061-0d9a63b03b3a.jpg?1543675562
+  large: https://cards.scryfall.io/large/front/8/1/81e7aeca-eaba-4d9a-b061-0d9a63b03b3a.jpg?1543675562
+  png: https://cards.scryfall.io/png/front/8/1/81e7aeca-eaba-4d9a-b061-0d9a63b03b3a.png?1543675562
+  art_crop: https://cards.scryfall.io/art_crop/front/8/1/81e7aeca-eaba-4d9a-b061-0d9a63b03b3a.jpg?1543675562
+  border_crop: https://cards.scryfall.io/border_crop/front/8/1/81e7aeca-eaba-4d9a-b061-0d9a63b03b3a.jpg?1543675562
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Creature — Minotaur Warrior
+oracle_text: You may exert Emberhorn Minotaur as it attacks. When you do, it gets
+  +1/+1 and gains menace until end of turn. (An exerted creature won't untap during
+  your next untap step.)
+power: '4'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Exert
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 02d1c536-68bc-4208-9b65-7741ef1f9da8
+set: akh
+set_name: Amonkhet
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/02d1c536-68bc-4208-9b65-7741ef1f9da8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aakh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/akh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/81e7aeca-eaba-4d9a-b061-0d9a63b03b3a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac2d258be-8634-4534-bb09-c064329f0940&unique=prints
+collector_number: '130'
+digital: false
+rarity: common
+flavor_text: '"My stride will break only against the twin points of Hazoret''s spear."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Viktor Titov
+artist_ids:
+- 2270c0b0-afb4-42b0-bcb6-25fe4ad6eef2
+illustration_id: 452dcc00-b9c2-4dd0-b705-76f783f33c59
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17144
+penny_rank: 8026
+prices:
+  usd: '0.03'
+  usd_foil: '0.15'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.10'
+  tix: '0.05'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426832
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Emberhorn+Minotaur&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Emberhorn+Minotaur&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Emberhorn+Minotaur
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/130212?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Emberhorn+Minotaur&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/63862?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

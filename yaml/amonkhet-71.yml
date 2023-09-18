@@ -1,0 +1,113 @@
+---
+object: card
+id: 63cf067e-4d76-4676-85fa-ebfb0755440a
+oracle_id: 5a55641b-0818-4418-a2e5-44157056353c
+multiverse_ids:
+- 426773
+mtgo_id: 63744
+mtgo_foil_id: 63745
+tcgplayer_id: 130277
+cardmarket_id: 297159
+name: Slither Blade
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/63cf067e-4d76-4676-85fa-ebfb0755440a
+scryfall_uri: https://scryfall.com/card/akh/71/slither-blade?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/3/63cf067e-4d76-4676-85fa-ebfb0755440a.jpg?1663214104
+  normal: https://cards.scryfall.io/normal/front/6/3/63cf067e-4d76-4676-85fa-ebfb0755440a.jpg?1663214104
+  large: https://cards.scryfall.io/large/front/6/3/63cf067e-4d76-4676-85fa-ebfb0755440a.jpg?1663214104
+  png: https://cards.scryfall.io/png/front/6/3/63cf067e-4d76-4676-85fa-ebfb0755440a.png?1663214104
+  art_crop: https://cards.scryfall.io/art_crop/front/6/3/63cf067e-4d76-4676-85fa-ebfb0755440a.jpg?1663214104
+  border_crop: https://cards.scryfall.io/border_crop/front/6/3/63cf067e-4d76-4676-85fa-ebfb0755440a.jpg?1663214104
+mana_cost: "{U}"
+cmc: 1.0
+type_line: Creature — Naga Rogue
+oracle_text: Slither Blade can't be blocked.
+power: '1'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 02d1c536-68bc-4208-9b65-7741ef1f9da8
+set: akh
+set_name: Amonkhet
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/02d1c536-68bc-4208-9b65-7741ef1f9da8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aakh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/akh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/63cf067e-4d76-4676-85fa-ebfb0755440a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5a55641b-0818-4418-a2e5-44157056353c&unique=prints
+collector_number: '71'
+digital: false
+rarity: common
+flavor_text: Some naga initiates move as silently the suns' reflections on the water.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Zezhou Chen
+artist_ids:
+- 810677e5-a502-4c03-b726-78cd808a75d4
+illustration_id: d630950e-dff2-4f47-8165-5e0112e6ccf8
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1261
+penny_rank: 2368
+prices:
+  usd: '0.24'
+  usd_foil: '10.45'
+  usd_etched: 
+  eur: '0.30'
+  eur_foil: '1.95'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426773
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Slither+Blade&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Slither+Blade&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Slither+Blade
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/130277?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Slither+Blade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/63744?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

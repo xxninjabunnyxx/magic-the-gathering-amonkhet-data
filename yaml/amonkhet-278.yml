@@ -1,0 +1,114 @@
+---
+object: card
+id: 7f9a5267-eb90-43bc-bf92-fcfb06821bae
+oracle_id: 066e7379-d439-41cb-a8c9-60964040b110
+multiverse_ids:
+- 429670
+mtgo_id: 64218
+mtgo_foil_id: 64219
+tcgplayer_id: 129532
+cardmarket_id: 296573
+name: Tattered Mummy
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/7f9a5267-eb90-43bc-bf92-fcfb06821bae
+scryfall_uri: https://scryfall.com/card/akh/278/tattered-mummy?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/f/7f9a5267-eb90-43bc-bf92-fcfb06821bae.jpg?1561792134
+  normal: https://cards.scryfall.io/normal/front/7/f/7f9a5267-eb90-43bc-bf92-fcfb06821bae.jpg?1561792134
+  large: https://cards.scryfall.io/large/front/7/f/7f9a5267-eb90-43bc-bf92-fcfb06821bae.jpg?1561792134
+  png: https://cards.scryfall.io/png/front/7/f/7f9a5267-eb90-43bc-bf92-fcfb06821bae.png?1561792134
+  art_crop: https://cards.scryfall.io/art_crop/front/7/f/7f9a5267-eb90-43bc-bf92-fcfb06821bae.jpg?1561792134
+  border_crop: https://cards.scryfall.io/border_crop/front/7/f/7f9a5267-eb90-43bc-bf92-fcfb06821bae.jpg?1561792134
+mana_cost: "{1}{B}"
+cmc: 2.0
+type_line: Creature — Zombie Jackal
+oracle_text: When Tattered Mummy dies, each opponent loses 2 life.
+power: '1'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 02d1c536-68bc-4208-9b65-7741ef1f9da8
+set: akh
+set_name: Amonkhet
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/02d1c536-68bc-4208-9b65-7741ef1f9da8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aakh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/akh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7f9a5267-eb90-43bc-bf92-fcfb06821bae/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A066e7379-d439-41cb-a8c9-60964040b110&unique=prints
+collector_number: '278'
+digital: false
+rarity: common
+flavor_text: The dead who wander beyond the safety of the city crave only to spread
+  their curse.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Slawomir Maniak
+artist_ids:
+- d887bc66-2779-416c-a1ff-d8720242063e
+illustration_id: eb1d73fc-b165-440c-bb4e-518a0b250f1f
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- planeswalkerdeck
+edhrec_rank: 9627
+prices:
+  usd: '0.15'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.40'
+  eur_foil: 
+  tix: '0.76'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429670
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Tattered+Mummy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Tattered+Mummy&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Tattered+Mummy
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/129532?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tattered+Mummy&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/64218?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

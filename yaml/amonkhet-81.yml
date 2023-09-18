@@ -1,0 +1,117 @@
+---
+object: card
+id: bdc6a825-43f7-40a4-95f0-335dc538b6cd
+oracle_id: 2edf106d-f504-430e-ad9c-50fc95b0ad9c
+multiverse_ids:
+- 426783
+mtgo_id: 63764
+mtgo_foil_id: 63765
+tcgplayer_id: 130199
+cardmarket_id: 297165
+name: Bone Picker
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/bdc6a825-43f7-40a4-95f0-335dc538b6cd
+scryfall_uri: https://scryfall.com/card/akh/81/bone-picker?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/d/bdc6a825-43f7-40a4-95f0-335dc538b6cd.jpg?1543675200
+  normal: https://cards.scryfall.io/normal/front/b/d/bdc6a825-43f7-40a4-95f0-335dc538b6cd.jpg?1543675200
+  large: https://cards.scryfall.io/large/front/b/d/bdc6a825-43f7-40a4-95f0-335dc538b6cd.jpg?1543675200
+  png: https://cards.scryfall.io/png/front/b/d/bdc6a825-43f7-40a4-95f0-335dc538b6cd.png?1543675200
+  art_crop: https://cards.scryfall.io/art_crop/front/b/d/bdc6a825-43f7-40a4-95f0-335dc538b6cd.jpg?1543675200
+  border_crop: https://cards.scryfall.io/border_crop/front/b/d/bdc6a825-43f7-40a4-95f0-335dc538b6cd.jpg?1543675200
+mana_cost: "{3}{B}"
+cmc: 4.0
+type_line: Creature — Bird
+oracle_text: |-
+  This spell costs {3} less to cast if a creature died this turn.
+  Flying, deathtouch
+power: '3'
+toughness: '2'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Deathtouch
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 02d1c536-68bc-4208-9b65-7741ef1f9da8
+set: akh
+set_name: Amonkhet
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/02d1c536-68bc-4208-9b65-7741ef1f9da8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aakh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/akh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bdc6a825-43f7-40a4-95f0-335dc538b6cd/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2edf106d-f504-430e-ad9c-50fc95b0ad9c&unique=prints
+collector_number: '81'
+digital: false
+rarity: uncommon
+flavor_text: They are the first to greet dissenters on their journey into exile.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Yeong-Hao Han
+artist_ids:
+- f8e7f8d6-6dde-4059-973c-30f1fd1bbe4e
+illustration_id: d962f5ef-bcb3-4b97-8b32-d221c4f8fe6a
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 12658
+penny_rank: 3193
+prices:
+  usd: '0.09'
+  usd_foil: '0.38'
+  usd_etched: 
+  eur: '0.15'
+  eur_foil: '0.39'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426783
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bone+Picker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bone+Picker&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Bone+Picker
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/130199?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bone+Picker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/63764?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

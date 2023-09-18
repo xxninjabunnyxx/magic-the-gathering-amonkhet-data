@@ -1,0 +1,113 @@
+---
+object: card
+id: 0df4db1e-f2a7-44e7-9b8d-fecf73d1e01c
+oracle_id: d9688f6e-7163-408b-b32b-b9645aed1f8c
+multiverse_ids:
+- 426766
+mtgo_id: 63730
+mtgo_foil_id: 63731
+tcgplayer_id: 130257
+cardmarket_id: 297154
+name: Open into Wonder
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/0df4db1e-f2a7-44e7-9b8d-fecf73d1e01c
+scryfall_uri: https://scryfall.com/card/akh/64/open-into-wonder?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/d/0df4db1e-f2a7-44e7-9b8d-fecf73d1e01c.jpg?1543675075
+  normal: https://cards.scryfall.io/normal/front/0/d/0df4db1e-f2a7-44e7-9b8d-fecf73d1e01c.jpg?1543675075
+  large: https://cards.scryfall.io/large/front/0/d/0df4db1e-f2a7-44e7-9b8d-fecf73d1e01c.jpg?1543675075
+  png: https://cards.scryfall.io/png/front/0/d/0df4db1e-f2a7-44e7-9b8d-fecf73d1e01c.png?1543675075
+  art_crop: https://cards.scryfall.io/art_crop/front/0/d/0df4db1e-f2a7-44e7-9b8d-fecf73d1e01c.jpg?1543675075
+  border_crop: https://cards.scryfall.io/border_crop/front/0/d/0df4db1e-f2a7-44e7-9b8d-fecf73d1e01c.jpg?1543675075
+mana_cost: "{X}{U}{U}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: X target creatures can't be blocked this turn. Until end of turn, those
+  creatures gain "Whenever this creature deals combat damage to a player, draw a card."
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 02d1c536-68bc-4208-9b65-7741ef1f9da8
+set: akh
+set_name: Amonkhet
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/02d1c536-68bc-4208-9b65-7741ef1f9da8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aakh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/akh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0df4db1e-f2a7-44e7-9b8d-fecf73d1e01c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad9688f6e-7163-408b-b32b-b9645aed1f8c&unique=prints
+collector_number: '64'
+digital: false
+rarity: uncommon
+flavor_text: The one thing the Gatewatch didn't expect to find on a plane ruled by
+  Nicol Bolas was perfection.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tyler Jacobson
+artist_ids:
+- 522af130-8db4-4b4b-950c-6e2b246339cf
+illustration_id: 88f360f9-5402-4e33-aca0-e6590d5b2b0f
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3182
+penny_rank: 8681
+prices:
+  usd: '0.20'
+  usd_foil: '2.52'
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: '0.69'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426766
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Open+into+Wonder&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Open+into+Wonder&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Open+into+Wonder
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/130257?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Open+into+Wonder&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/63730?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

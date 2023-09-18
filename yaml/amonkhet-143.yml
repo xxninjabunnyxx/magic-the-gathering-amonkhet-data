@@ -1,0 +1,117 @@
+---
+object: card
+id: 777b98c3-d0b8-4ee3-9d89-e86344269ff1
+oracle_id: cbb6c481-bcf1-459d-a6fb-bb46cc521368
+multiverse_ids:
+- 426845
+mtgo_id: 63888
+mtgo_foil_id: 63889
+tcgplayer_id: 130249
+cardmarket_id: 297189
+name: Minotaur Sureshot
+lang: en
+released_at: '2017-04-28'
+uri: https://api.scryfall.com/cards/777b98c3-d0b8-4ee3-9d89-e86344269ff1
+scryfall_uri: https://scryfall.com/card/akh/143/minotaur-sureshot?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/7/777b98c3-d0b8-4ee3-9d89-e86344269ff1.jpg?1543675657
+  normal: https://cards.scryfall.io/normal/front/7/7/777b98c3-d0b8-4ee3-9d89-e86344269ff1.jpg?1543675657
+  large: https://cards.scryfall.io/large/front/7/7/777b98c3-d0b8-4ee3-9d89-e86344269ff1.jpg?1543675657
+  png: https://cards.scryfall.io/png/front/7/7/777b98c3-d0b8-4ee3-9d89-e86344269ff1.png?1543675657
+  art_crop: https://cards.scryfall.io/art_crop/front/7/7/777b98c3-d0b8-4ee3-9d89-e86344269ff1.jpg?1543675657
+  border_crop: https://cards.scryfall.io/border_crop/front/7/7/777b98c3-d0b8-4ee3-9d89-e86344269ff1.jpg?1543675657
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Creature — Minotaur Archer
+oracle_text: |-
+  Reach (This creature can block creatures with flying.)
+  {1}{R}: Minotaur Sureshot gets +1/+0 until end of turn.
+power: '2'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Reach
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 02d1c536-68bc-4208-9b65-7741ef1f9da8
+set: akh
+set_name: Amonkhet
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/02d1c536-68bc-4208-9b65-7741ef1f9da8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aakh&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/akh?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/777b98c3-d0b8-4ee3-9d89-e86344269ff1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acbb6c481-bcf1-459d-a6fb-bb46cc521368&unique=prints
+collector_number: '143'
+digital: false
+rarity: common
+flavor_text: '"Those wings are no advantage. I will pin them to the ceiling of the
+  Hekma."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Joseph Meehan
+artist_ids:
+- 6befd6d5-7f8d-4b7c-87e3-5511391a3359
+illustration_id: de6e8a13-56a3-4da5-a9cb-9b75fcdb7dac
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14540
+penny_rank: 10695
+prices:
+  usd: '0.02'
+  usd_foil: '0.22'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.29'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426845
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Minotaur+Sureshot&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Minotaur+Sureshot&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Minotaur+Sureshot
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/130249?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Minotaur+Sureshot&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/63888?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
